@@ -1,5 +1,8 @@
+body {
+    background-color: rgb(159, 221, 237);
+}
+
 .cím {
-    text-align: center;
-    font-size: 30pt;
-    background-color: rgb(159, 221, 237,);
+    background-color: rgb(95, 188, 211);
+    
 }
