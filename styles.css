@@ -24,3 +24,14 @@ body {
     text-decoration: none;
     background-color: rgb(63, 143, 163) ;
 }
+
+.tartalom {
+    margin-top: 50px;
+    padding: 7px;
+    background-color: rgb(233, 197, 119);
+}
+
+.tartalom img {
+    float: right;
+    width: 300px;
+}
