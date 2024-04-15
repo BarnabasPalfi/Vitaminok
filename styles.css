@@ -47,3 +47,9 @@ body {
 .méret2 {
     font-size: 8pt;
 }
+
+#paprika {
+    text-align: center;
+    width: 350px;
+    float: none;
+}
