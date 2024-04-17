@@ -65,6 +65,11 @@ body {
     float: none;
 }
 
+.nav-item {
+    background-color: rgb(95, 188, 211);
+    color: black;
+}
+
 .nav-item:hover {
-    background-color: red;
+    background-color: rgb(63, 143, 163);
 }
