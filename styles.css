@@ -51,3 +51,8 @@ body {
 .menu ul{
     margin: auto;
 }
+
+.vissza img{
+    float: right;
+    width: 100px;
+}
