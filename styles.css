@@ -27,12 +27,6 @@ body {
     font-size: 8pt;
 }
 
-#paprika {
-    text-align: center;
-    width: 350px;
-    float: none;
-}
-
 .nav-item {
     background-color: rgb(95, 188, 211);
     color: black;
@@ -42,6 +36,18 @@ body {
     background-color: rgb(63, 143, 163);
 }
 
+.nav-item a {
+    color: black;
+}
+
+.nav-item a :hover {
+    color: black;
+}
+
 .navlink {
     color: black;
+}
+
+.menu ul{
+    margin: auto;
 }
